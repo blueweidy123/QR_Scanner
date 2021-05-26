@@ -1,0 +1,7 @@
+# QR_Scanner
+scanner for android
+
+# Showcase
+![186546143_482373009656462_6857133025909420035_n](https://user-images.githubusercontent.com/48786184/119622903-d586fa80-be31-11eb-95e6-3cee1026c999.png)
+
+![189930391_185441146803721_7900812688596236886_n](https://user-images.githubusercontent.com/48786184/119622908-d61f9100-be31-11eb-89f6-6fbf96a7920f.png)
